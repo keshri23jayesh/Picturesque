@@ -10,8 +10,12 @@
   
     <link href="css/carousel.css" rel="stylesheet">
     <link href="css/changes.css" rel="stylesheet">
-   
-
+   <style>
+     .jay
+     {
+     opacity:1;
+     }
+     </style>
 
 
 </head>
