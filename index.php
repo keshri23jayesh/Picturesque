@@ -14,12 +14,7 @@
 
 <style>
 
-.navbar-fixed-top {
-    position: fixed;
-    right: 0;
 
-    z-index: 1030;
-}
 
  .navbar-fixed-top.scrolled {
   background-color: #fff !important;
