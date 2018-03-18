@@ -17,7 +17,7 @@
 .navbar-fixed-top {
     position: fixed;
     right: 0;
-    left: 0;
+
     z-index: 1030;
 }
 
